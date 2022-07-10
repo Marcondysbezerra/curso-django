@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "2607dab56f67e498980011672604703371b4fffe211752e091cb273c014dffd2"
+            "sha256": "f16429bb074667cc43ed32fc81f87e41a55a88ae2e07a51e4acebd4fec5cdac2"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -79,6 +79,14 @@
             ],
             "index": "pypi",
             "version": "==2.1.12"
+        },
+        "collectfast": {
+            "hashes": [
+                "sha256:2f6abc8cab7ec5114a7a9a3660ab629ec142556957220aa82857dc9b4381490d",
+                "sha256:e716b2234ab50b5f1010b0d78c3fae8c6aebdb8b7c66ef5568503c33c1a5e19a"
+            ],
+            "index": "pypi",
+            "version": "==2.2.0"
         },
         "colorama": {
             "hashes": [
@@ -370,6 +378,14 @@
             ],
             "markers": "python_version >= '3.7'",
             "version": "==2.0.1"
+        },
+        "typing-extensions": {
+            "hashes": [
+                "sha256:25642c956049920a5aa49edcdd6ab1e06d7e5d467fc00e0506c44ac86fbfca02",
+                "sha256:e6d2677a32f47fc7eb2795db1dd15c1f34eff616bcaf2cfb5e997f854fa1c4a6"
+            ],
+            "markers": "python_version >= '3.7'",
+            "version": "==4.3.0"
         },
         "tzdata": {
             "hashes": [
