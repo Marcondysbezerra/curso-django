@@ -163,7 +163,6 @@ if AWS_ACCESS_KEY_ID:
     INSTALLED_APPS.append('storages')
 
 
-
 # Default primary key field type
 # https://docs.djangoproject.com/en/4.0/ref/settings/#default-auto-field
 
