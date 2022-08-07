@@ -15,10 +15,12 @@ django-s3-folder-storage = "*"
 collectfast = "*"
 django-debug-toolbar = "*"
 sentry-sdk = "*"
+django-ordered-model = "*"
 
 [dev-packages]
 flake8 = "*"
 pytest-cov = "*"
+model-mommy = "*"
 
 [requires]
 python_version = "3.9"
